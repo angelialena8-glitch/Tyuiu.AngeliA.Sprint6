@@ -1,5 +1,4 @@
-﻿
-namespace Tyuiu.AngeliiA.Sprint6.Task1.V27
+﻿namespace Tyuiu.AngeliA.Sprint6.Task1.V27
 {
     partial class Form1
     {

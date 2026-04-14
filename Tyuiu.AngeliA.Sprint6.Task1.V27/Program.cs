@@ -1,5 +1,5 @@
 using Tyuiu.AngeliA.Sprint6.Task1.V27.Lib;
-namespace Tyuiu.AngeliiA.Sprint6.Task1.V27
+namespace Tyuiu.AngeliA.Sprint6.Task1.V27
 {
     internal static class Program
     {
